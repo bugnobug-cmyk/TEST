@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "lat": 36.7213,
+    "lon": -4.4214,
+    "name": "Centre Malaga",
+    "zone": "Centre",
+    "description": "Point central de Malaga (exemple).",
+    "popupHtml": "popups/centre.html"
+  },
+  {
+    "id": 2,
+    "lat": 36.7220,
+    "lon": -4.4200,
+    "name": "Point test",
+    "zone": "Test",
+    "description": "Un second point pour test.",
+    "popupHtml": "popups/test.html"
+  }
+]
